@@ -1,42 +1,37 @@
 {
   "project_info": {
-    "project_number": "",
-    "firebase_url": "",
-    "project_id": "",
-    "storage_bucket": ""
+    "project_number": "53940539265",
+    "firebase_url": "https://mayo-international-school.firebaseio.com",
+    "project_id": "mayo-international-school",
+    "storage_bucket": "mayo-international-school.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:111111111111:android:1111111111111111",
+        "mobilesdk_app_id": "1:53940539265:android:8079918007509b46bde280",
         "android_client_info": {
-          "package_name": "com.moodle.moodlemobile"
+          "package_name": "com.mayostudy.learning"
         }
       },
       "oauth_client": [
         {
-          "client_id": "",
+          "client_id": "53940539265-llqdu1n80kooph2uqnrim3opdgb3th93.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": ""
-        },
-        {
-          "current_key": ""
+          "current_key": "AIzaSyAOiDe3hcuR4FNFiM4Nf9wYnmRqMih-kdo"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53940539265-llqdu1n80kooph2uqnrim3opdgb3th93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
